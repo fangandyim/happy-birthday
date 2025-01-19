@@ -4,6 +4,11 @@
 
 注意：每次修改customize.json后，网址都要重新生成一次，否则无效！！！
 
+更新步骤：
+1) unpublish 生成的网址
+2) 选择“None”-root-save，然后再选择“master”-root-save
+<img width="1280" alt="92f3ccf4e9857bc8fd7c03c96502c3a" src="https://github.com/user-attachments/assets/34844dd0-9726-4a69-90d1-e5aa637de9dc" />
+
 网址生成的步骤见：
 
 1）点击您仓库的 Settings 菜单
