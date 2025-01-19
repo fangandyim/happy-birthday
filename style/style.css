@@ -117,12 +117,9 @@ body {
 }
 
 .six img {  
-/*  display: inline-block;
+  display: inline-block;
   max-width: 100%;
-  height: auto; */
-  position:absolute;
-  top: 25%;
-  left: 30%;
+  height: auto;
   transform: scale(0.5);
 }
 
