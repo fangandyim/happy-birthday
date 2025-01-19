@@ -1,33 +1,36 @@
 ## Happy Birthday!!!
 
-### Wish someone special happy birthday in a special way.
+#### [生成的祝福网址~](https://fangandyim.github.io/happy-birthday/)
 
-#### [生成的祝福网址点这里~](https://fangandyim.github.io/happy-birthday/)
+注意：每次修改customize.json后，网址都要重新生成一次，否则无效！！！
 
-#### Update: Now you can customize all the texts without modifying the code!
+网址生成的步骤见：
 
-On the birthday of a special friend, I felt like the generic happy birthday text just wasn't gonna cut it for me. So I put together this animated web page at the last minute to wish them Happy Birthday.
-
-I decided to publish it so that you can use it to make the special people in your life feel a bit more of what they truly are: special.
-You can create your very own happy-birthday page in a few easy steps:
-
-* Fork the repository
-* Open `customize.json` and replace the content with your own
-* Turn on GitHub pages for your repository (Settings > Pages)
-* Share the URL you get at the above step with your friend
-
-**You do not need to create Pull Request to this main repository to get it running.**
-
-I've created the JSON file (`customize.json`) for easy and quick customizability. It allows you the change all of the texts and the image used on the webpage without modifying the code. However, If you want to customize it further, leave the JSON fields empty and edit the HTML file directly. This is because the content in the JSON file overwrites the HTML.
-
-Please note that I've created this page in a hurry and it comes with no warranty.
-
-Feel free to [get in touch with me](mailto:afiur.fahim@gmail.com) if you need any help with it. You can [find me on Twitter](https://twitter.com/faahim01) as well. :)
+1）点击您仓库的 Settings 菜单
+![image](https://github.com/user-attachments/assets/3d282ddd-e52d-4129-8c06-b7c07423952e)
+![image](https://github.com/user-attachments/assets/9568a01d-df47-444a-a8f4-6a93f2930ed8)
 
 
-## Contributing
+2）进入设置后，点击 Code and automation 下的 Pages
+![image](https://github.com/user-attachments/assets/1ca25fda-fb18-4548-820e-43209bff1d3b)
 
-I've used plain HTML, CSS and JavaScript with [GSAP](https://greensock.com/gsap) for animations.
-If you have any idea to improve it or make it more interesting, feel free to send a PR, or create an issue for a feature request.
 
-Happy wishing! 🎉
+3）请确保 Source 下拉框选择 “Deploy from a branch”，Branch 选择 main
+![image](https://github.com/user-attachments/assets/3f871d44-7b0c-429b-a2c5-5b89fc60838d)
+
+已经默认设置好了，这步没有其他操作
+
+4）点击 Save 保存
+![image](https://github.com/user-attachments/assets/bcd182f8-33ee-4543-8c0c-1f3b05226ed5)
+
+
+上面弹出蓝色消息，表示保存好了。
+![image](https://github.com/user-attachments/assets/c64c0e15-4008-4247-9adb-1e57f55d5ceb)
+
+
+然后没什么动静……也没有网址链接。
+
+踩坑记录：等待时间不足……
+这里教程提示说，会有网站的链接地址出现， 但是上面根本没有找到。。。(可能就是当时没等够时间)
+                        
+原文链接：https://blog.csdn.net/WHYbeHERE/article/details/140378572
