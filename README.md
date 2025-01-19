@@ -3,6 +3,9 @@
 #### [生成的祝福网址~](https://fangandyim.github.io/happy-birthday/)
 
 注意：每次修改customize.json后，网址都要重新生成一次，否则无效！！！
+----------------------------------------------------------
+我后来发现修改customize.json后，隔2分钟左右，网页会自动更新，并向我的网易邮箱发送邮件
+![image](https://github.com/user-attachments/assets/ef4ea225-d247-473e-bd23-7c1a51b3cadb)
 
 #### 网页更新步骤：
 选择“None”-root-save，然后再选择“master”-root-save，注意在该页面要停留20秒再刷新（否则可能网址无法生成）
