@@ -6,6 +6,8 @@
 
 更新步骤：
 1) unpublish 生成的网址
+![image](https://github.com/user-attachments/assets/8bc0c090-5ddd-473a-b263-ade0572f2333)
+
 2) 选择“None”-root-save，然后再选择“master”-root-save
 <img width="1280" alt="92f3ccf4e9857bc8fd7c03c96502c3a" src="https://github.com/user-attachments/assets/34844dd0-9726-4a69-90d1-e5aa637de9dc" />
 
