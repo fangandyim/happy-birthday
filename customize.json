@@ -1,14 +1,14 @@
 {
-  "greeting": "嘿嘿~",
+  "greeting": "Hiya~",
   "name": "冯宇",
   "greetingText": "新年快乐！生日快乐！",
-  "wishText": "May you always be a lucky girl, blessed with love and happiness! ;)",
-  "imagePath": "img/冯宇.jpg",
-  "text1": "It's your birthday!!! :D",
-  "textInChatBox": "Happy birthday to you!! Yeee! Many many happy blah...",
-  "sendButtonLabel": "Send",
+  "wishText": "May you always be a lucky girl!",
+  "imagePath": "img/动漫人物.jpg",
+  "text1": "今天是你的生日!!!",
+  "textInChatBox": "Happy birthday to you!!!",
+  "sendButtonLabel": "发送",
   "text2": "That's what I was going to do.",
-  "text3": "But then I stopped.",
+  "text3": "但是...",
   "text4": "I realised, I wanted to do something",
   "text4Adjective": "special",
   "text5Entry": "Because,",
@@ -17,7 +17,7 @@
   "bigTextPart1": "S",
   "bigTextPart2": "O",
   "wishHeading": "Happy Birthday!",
-  "outroText": "Okay, now come back and tell me if you liked it.",
-  "replayText": "Or click, if you want to watch it again.",
-  "outroSmiley": ":)"
+  "outroText": "未来请多指教~",
+  "replayText": "Click here, if you want to watch it again.",
+  "outroSmiley": "(˃ ⌑ ˂ഃ )"
 }
