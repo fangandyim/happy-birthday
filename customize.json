@@ -6,12 +6,12 @@
   "imagePath": "img/公主.jpg",
   "text1": "今天是你的生日!!!",
   "textInChatBox": "Happy birthday to you!!!",
-  "sendButtonLabel": "发送",
-  "text2": "That's what I was going to do.",
-  "text3": "但是...",
-  "text4": "I realised, I wanted to do something",
+  "sendButtonLabel": "Send",
+  "text2": "That's what I was going to do....",
+  "text3": "But...",
+  "text4": "I realised, I wanted to do something...",
   "text4Adjective": "special",
-  "text5Entry": "Because,",
+  "text5Entry": "Because...",
   "text5Content": "You are Special",
   "smiley": ":)",
   "bigTextPart1": "S",
@@ -19,5 +19,5 @@
   "wishHeading": "Happy Birthday!",
   "outroText": "未来请多指教~",
   "replayText": "Click here, if you want to watch it again.",
-  "outroSmiley": "(˃ ⌑ ˂ഃ )"
+  "outroSmiley": ":-) "
 }
