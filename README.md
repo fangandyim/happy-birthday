@@ -5,7 +5,7 @@
 注意：每次修改customize.json后，网址都要重新生成一次，否则无效！！！
 
 更新步骤：
-1) unpublish 生成的网址
+1) unpublish 生成的网址（后来此步可以跳过！）
 ![image](https://github.com/user-attachments/assets/8bc0c090-5ddd-473a-b263-ade0572f2333)
 
 2) 选择“None”-root-save，然后再选择“master”-root-save
